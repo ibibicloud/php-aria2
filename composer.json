@@ -1,0 +1,19 @@
+{
+    "name": "ibibicloud/php-aria2",
+    "type": "library",
+    "license": "Apache-2.0",
+    "require": {
+        "php": ">=7.2.0",
+        "ext-json": "*",
+        "ext-mbstring": "*",
+        "ext-curl": "*",
+        "ibibicloud/think-container": "5.1.*"
+    },   
+    "autoload": {
+        "psr-4": {
+            "ibibicloud": "src"
+        },
+        "files": [
+        ]
+    }
+}
