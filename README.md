@@ -1,5 +1,5 @@
 
-## php-aria2
+## php-aria2 【只适配window】
 
 ### 安装
 ~~~
